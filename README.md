@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-program-that-determines-the-potential-energy-of-a-solar-system
+<br>
+You want to develop a program that determines the potential energy a solar system will generate in a year. The user should enter the surface of solar panels, the number of days of sunshine in a year. The program will then compute the energy and display the results What are the inputs, outputs and the basic data requirements for this problem? [2 Marks]
